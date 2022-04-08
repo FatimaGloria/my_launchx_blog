@@ -13,9 +13,6 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 > adfusique imis amplexus. Agmina per fabricator
 > mittere Erymanthon habetque tot.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Mi nombre es Fatima Gloria, soy de Saltillo, Coahuila. Actualmente estudio Ingeniería en Desarrollo de Software. 
+Me gustan mucho escuchar música, ver series y peliculas sobre todo de Ciencia Ficción y mi meta es ser un Unicorn Developer.
 
