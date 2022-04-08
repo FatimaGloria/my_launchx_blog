@@ -26,7 +26,7 @@ Frameworks:
 - VUE
 - Angular
 
-Introducción a Azure para la administración y despliegue de aplicaciones.
+- Introducción a Azure para la administración y despliegue de aplicaciones.
 
 Y bueno, este ha sido el resumen de nuestro viaje hasta ahora. Solo me queda dar las gracias por esta increíble oportunidad y decir que si te encuentras 
 leyendo esto por alguna razón, ahora mismo estamos entrando a nuestra nueva misión BackEnd con Node JS, la cual sin dudas promete muchísimo!!! y de la cual 
