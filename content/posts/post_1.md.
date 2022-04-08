@@ -7,30 +7,33 @@ description: 'Descripción de tu blog post'
 Recapitulando nuestro viaje, Entrada 2:
 
 Hola compañeros exploradores y viajeros. En este pequeño post les contaré un poco sobre mi en el viaje Full Stack Web Developer con LaunchX.
-Cuesta creerlo pero ya llevamos 8 semanas de mucho aprendizaje increíble. 
+Cuesta creerlo pero ya llevamos 8 semanas de mucho aprendizaje increíble.
 
-Empecemos por la semana de Onboarding donde vimos Python, creamos nuestra cuenta de GitHub y donde los novatos conocimos las maravillas del
-editor de texto conocido como Visual Studio Code (Así es, la cosa se puso seria y emocionante a la vez, llegamos a las grandes ligas muchachos).
+Onboarding:
+- Python
+- Editor de Texto: Visual Studio Code
+- Introducción a GitHub
 
-Después pasamos a nuestra misión de Front End, donde la lista de cosas que aprendimos aquí es gigantezca.
-Si estas aquí es porque quieres aprender a programar aplicaciones web pero ¿De dónde se saca la información?, 
-¿Quién es nuestro cliente? y ¿A quién va dirigido la app?.
-La respuesta a estas preguntas la encontramo en la semana 1 de nuestra misión donde vimos la importancia de la definición de los requerimientos, 
-conocer nuestro público objetivo, la documentación de nuestro proyecto y la introducción al diseño UI/UX 
-donde a su vez conocimos herramientas como Figma y Miro para realizar maquetación de nuestras apps y páginas web.
+Misión FrontEnd:
+- Introducción a diseño UI/UX con herramientas como Miro y Figma.
+- Importancia de la definición de requerimientos y documentación del proyecto.
+- Conceptos de marketing como definir al publico y buyer persona, breve campaña.
+- HTML 5
+- CSS 3
+- JavaScript
+Frameworks:
+- VUE
+- Angular
 
-Una vez entrados en contexto, las siguientes semanas conocimos y aprendimos 3 poderosos lenguajes encargados de darle vida al Front End que son HTML 5,
-CSS 3 Y JavaScript, es decir el esqueleto, cuerpo y sistema nervioso de toda aplicación web. Incluso hicimos una pokedex donde juntamos estos tres elementos.
-
-En nuestra penúltima semana nos encotramos con los frameworks Vue y Angular, marcos de trabajo que ayudan a que las piezas de nuestro rompecabezas 
-se vayan uniendo y nuestra página vaya cobrando vida. Y por ultimo pero para nada menos importante tuvimos una introducción a Azure, lugar que permite 
-desplegar y administrar tus aplicaciones.
+Introducción a Azure para la administarción y despliegue de aplicaciones.
 
 Y bueno, este ha sido el resumen de nuestro viaje hasta ahora. Solo me queda dar las gracias por esta increible oportunidad y decir que si te encuentras 
-leyendo esto por alguna razón, ahora mismo estamos entrando a nuestra nueva misión BackEnd con Node JS, la cual sin dudas promete muchisimo!!! y de la cuaál 
+leyendo esto por alguna razón, ahora mismo estamos entrando a nuestra nueva misión BackEnd con Node JS, la cual sin dudas promete muchisimo!!! y de la cuál 
 muy probablemente hablemos en otros posts, así que Stay Tune.
 
 Cambio y Fuera.
+
+
 
 
 
