@@ -3,8 +3,7 @@ title: "Git para Novatos como usted (y yo)"
 date: 2022-04-25
 description: 'Comprendiendo qué es Git y para qué lo utilizamos'
 ---
-
-# Git para Novatos como usted (y yo).
+### Antes que nada ...
 
 Primero empecemos por entender una cosa, Git y Github aunque suenan similar no son lo mismo.
 
