@@ -6,7 +6,18 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fatimagloria.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fatimagloria.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git para Novatos como usted (y yo)</title>
+      <link>https://fatimagloria.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatimagloria.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Git para Novatos como usted (y yo). Primero empecemos por entender una cosa, Git y Github aunque suenan similar no son lo mismo.
+Git es una herramienta de control de versiones diseñada por Linus Torvalds mientras que Github es una plataforma que te permite alojar proyectos utilizando un sistema de contol de versiones.
+Como nos podemos dar cuenta ambos van relacionados pero efectivamente no son lo mismo y cuando se es principiante en este mundo, es un error muy común confundirlos tal como lo fue en mi caso, que al principio pensé que teniendo Github automáticamente tendría Git :sweat_smile: .</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje</title>
       <link>https://fatimagloria.github.io/my_launchx_blog/posts/post_1/</link>
@@ -29,17 +40,6 @@ Onboarding:
       <description>Bitácora de una explorer, entrada 1:
 En mi opinión, la cultura de un profesional de software se basa en:
  Respeto: porque es la base de todo. Honestidad: saber decir cuando las cosas no estan saliendo de acuerdo a un plan. Compañerismo: somos parte de una gran comunidad, en algún lado escuche &amp;ldquo;¿De qué sirve el conocimiento si no se comparte?&amp;rdquo; En tener una chispa de curiosidad por encontrar nuevas posibilidades y soluciones.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fatimagloria.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fatimagloria.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>Git para Novatos como usted (y yo). Primero empecemos por entender una cosa, Git y Github aunque suenan similar no son lo mismo.
-Git es una herramienta de control de versiones diseñada por Linus Torvalds mientras que Github es una plataforma que te permite alojar proyectos utilizando un sistema de contol de versiones.
-Como nos podemos dar cuenta ambos van relacionados pero efectivamente no son lo mismo y cuando se es principiante en este mundo, es un error muy común confundirlos tal como lo fue en mi caso, que al principio pensé que teniendo Github automáticamente tendría Git :sweat_smile: .</description>
     </item>
     
     <item>
