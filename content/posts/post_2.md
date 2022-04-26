@@ -11,7 +11,7 @@ Primero empecemos por entender una cosa, Git y Github aunque suenan similar no s
 de contol de versiones.
 
 Como nos podemos dar cuenta ambos van relacionados pero efectivamente no son lo mismo y cuando se es principiante en este mundo,
-es un error muy común confundirlos tal como lo fue en mi caso, que al principio pensé que teniendo Github automáticamente tendría Git :sweat_smile: .
+es un error muy común confundirlos tal como lo fue en mi caso, que al principio pensé que teniendo Github automáticamente tendría Git 😅 .
 
 Trágico, lo sé, pero a lo que vinimos. Entonces ya tenemos dicho que Git es una herramienta de control versiones, ¿pero y esto con qué se come?.
 
@@ -32,9 +32,9 @@ de ser necesario. Además de facilitar una mejor comunicación con el resto del 
 Puedes revisar si ya tienes instalado Git mediante el comando:
  `git version`
 
-Basta con teclearlo en tu consola y  si te regresa el numero de versión es que ya lo tienes. Si no, puedes descargarlo a através de la página de Git: https://git-scm.com/downloads 
-Donde seleccionas tu sistema operativo, descargas, sigues los pasos y listo.
+Basta con teclearlo en tu consola y  si te regresa el número de versión es que ya lo tienes. Si no, puedes descargarlo a através de la página de Git: https://git-scm.com/downloads 
+ Donde vas a seleccionar el sistema operativo de tu computadora, lo descargas, sigues los pasos y listo.
 
 En el siguiente post hablaremos sobre los comandos básicos de Git para qué son y como se utilizan. Así que nos vemos por allá.
 
-:sparkles: Cambio y Fuera :rocket:
+✨ Cambio y Fuera 
